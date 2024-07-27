@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vozy>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Oktávia</Nazev_modelu>
+		<Datum_prodeje>2.12.2010</Datum_prodeje>
+		<Cena>500.000,-</Cena>
+		<DPH>20</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Felicia</Nazev_modelu>
+		<Datum_prodeje>3.12.2000</Datum_prodeje>
+		<Cena>210.000,-</Cena>
+		<DPH>20</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Fabia</Nazev_modelu>
+		<Datum_prodeje>4.12.2010</Datum_prodeje>
+		<Cena>350.000,-</Cena>
+		<DPH>20</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Oktávia</Nazev_modelu>
+		<Datum_prodeje>4.12.2010</Datum_prodeje>
+		<Cena>500.000,-</Cena>
+		<DPH>20</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Oktávia</Nazev_modelu>
+		<Datum_prodeje>5.12.2010</Datum_prodeje>
+		<Cena>500.000,-</Cena>
+		<DPH>20</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Fabia</Nazev_modelu>
+		<Datum_prodeje>5.12.2010</Datum_prodeje>
+		<Cena>350.000,-</Cena>
+		<DPH>20</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Fabia</Nazev_modelu>
+		<Datum_prodeje>6.12.2010</Datum_prodeje>
+		<Cena>350.000,-</Cena>
+		<DPH>20</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Forman</Nazev_modelu>
+		<Datum_prodeje>4.12.2000</Datum_prodeje>
+		<Cena>100.000,-</Cena>
+		<DPH>19</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Favorit</Nazev_modelu>
+		<Datum_prodeje>5.12.2000</Datum_prodeje>
+		<Cena>80.000,-</Cena>
+		<DPH>19</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Forman</Nazev_modelu>
+		<Datum_prodeje>6.12.2000</Datum_prodeje>
+		<Cena>100.000,-</Cena>
+		<DPH>19</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Felicia</Nazev_modelu>
+		<Datum_prodeje>3.12.2000</Datum_prodeje>
+		<Cena>210.000,-</Cena>
+		<DPH>19</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Felicia</Nazev_modelu>
+		<Datum_prodeje>2.12.2000</Datum_prodeje>
+		<Cena>210.000,-</Cena>
+		<DPH>19</DPH>
+	</Vozidlo>
+	<Vozidlo>
+		<Nazev_modelu>Škoda Oktávia</Nazev_modelu>
+		<Datum_prodeje>7.12.2010</Datum_prodeje>
+		<Cena>500.000,-</Cena>
+		<DPH>20</DPH>
+	</Vozidlo>
+</Vozy>
